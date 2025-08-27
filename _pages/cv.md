@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Luxembourg, 2028 (expected)
+* M.S. in Computer Science and Engineering, Technical University of Denmark, 2021
+* B.S. in Software Technology, Technical University of Denmark, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 - 2024: Software Engineer
+  * Mobile Industrial Robots
+  * Team: Navigation, R&D
+  * Duties includes: Software architecture and development
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 - 2021: Student Assistant Software Developer
+  * Robotize
+  * Duties included: Development of auxiliary products
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Experience with C++, Python, Java, C# programming
+* Logical and mathematical proofs
+* Design automatic proofs using proof assistants such as Isabelle
+* LaTeX
+* Proficient with Unix systems such as Linux
+* Regular use of Git
 
 Publications
 ======
@@ -59,6 +53,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
