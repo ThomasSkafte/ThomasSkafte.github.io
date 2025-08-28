@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "PhD. Skafte"
+title                    : "PhD. Thomas Skafte"
 title_separator          : "-"
-name                     : &name "PhD. Skafte"
+name                     : &name "PhD. Thomas Skafte"
 description              : &description "Doctoral researcher at University of Luxembourg"
 url                      : https://thomasskafte.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Thomas Løye Skafte"
   pronouns         : # example: "she/her"  
-  bio              : "Doctoral researcher at University of Luxembourg"
+  bio              : "Doctoral researcher in the Individual and Collective Reasoning group at University of Luxembourg"
   location         : "Luxembourg"
   employer         : "University of Luxembourg"
   uri              : # URL
