@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Luxembourg, 2028 (expected)
+* Ph.D in Computer Science, University of Luxembourg, 2029 (expected)
 * M.S. in Computer Science and Engineering, Technical University of Denmark, 2021
 * B.S. in Software Technology, Technical University of Denmark, 2018
 
